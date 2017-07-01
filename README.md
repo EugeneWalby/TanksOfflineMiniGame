@@ -2,7 +2,8 @@
 
 Used technologies: C++, HGE.
 
-It's the simplest version of the famous game on Dendy "Battle City". The game written on C++ with using HGE library.
+Description: It's the simplest version of the famous game on Dendy "Battle City". The game written on C++ with using HGE library.
+
 Game rules:
   - written for two players;
   - each player need to destroy the enemy tank 3 times. Then he win;
